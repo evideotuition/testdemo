@@ -1,5 +1,4 @@
 package Queue;
-
 public class Queue {
 	
 	int cap=5;
