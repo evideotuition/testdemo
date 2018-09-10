@@ -1,0 +1,42 @@
+id: 2-1.0.r1/0
+type: dir
+count: 0
+cpath: /trunk/MavenApp
+copyroot: 0 /
+
+PLAIN
+K 8
+MavenApp
+V 14
+dir 2-1.0.r1/0
+END
+ENDREP
+id: 0-1.0.r1/122
+type: dir
+count: 0
+text: 1 72 37 37 36ca832a048b5fd6fec91a1122822e51
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 5
+trunk
+V 16
+dir 0-1.0.r1/122
+END
+ENDREP
+id: 0.0.r1/286
+type: dir
+pred: 0.0.r0/17
+count: 1
+text: 1 237 36 36 ac237ad06dfa35699f832c9441548f94
+cpath: /
+copyroot: 0 /
+
+_2.0.t0-0 add-dir false false /trunk/MavenApp
+
+_0.0.t0-0 add-dir false false /trunk
+
+
+
+286 411
